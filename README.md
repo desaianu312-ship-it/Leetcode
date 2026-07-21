@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
