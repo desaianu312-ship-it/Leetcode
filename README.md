@@ -34,13 +34,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
