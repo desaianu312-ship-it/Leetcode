@@ -177,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1729-find-followers-count](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
