@@ -171,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1407-top-travellers) |
+| [1527-patients-with-a-condition](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
