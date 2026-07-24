@@ -164,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1251-average-selling-price](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
