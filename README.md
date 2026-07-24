@@ -162,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0178-rank-scores) |
 | [0185-department-top-three-salaries](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0585-investments-in-2016](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
