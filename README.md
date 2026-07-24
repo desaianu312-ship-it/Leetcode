@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
