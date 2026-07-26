@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0263-ugly-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0290-word-pattern) |
