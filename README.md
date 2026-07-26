@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0228-summary-ranges) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0278-first-bad-version) |
