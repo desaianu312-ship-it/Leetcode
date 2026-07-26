@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0228-summary-ranges) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0242-valid-anagram) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
