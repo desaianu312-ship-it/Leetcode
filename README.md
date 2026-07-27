@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Database
 |  |
 | ------- |
