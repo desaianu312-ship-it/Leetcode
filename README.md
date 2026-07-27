@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
