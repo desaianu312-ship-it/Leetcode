@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0036-valid-sudoku) |
 | [0162-find-peak-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0179-largest-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0217-contains-duplicate) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
