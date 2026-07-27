@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Backtracking
 |  |
 | ------- |
