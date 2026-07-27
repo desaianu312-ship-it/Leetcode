@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Stack
 |  |
 | ------- |
@@ -123,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Recursion
 |  |
 | ------- |
