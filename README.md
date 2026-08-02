@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0179-largest-number) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0415-add-strings) |
