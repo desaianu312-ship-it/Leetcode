@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
 | [0162-find-peak-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0179-largest-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0455-assign-cookies) |
