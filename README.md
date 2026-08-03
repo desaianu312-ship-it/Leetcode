@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0495-teemo-attacking) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0495-teemo-attacking) |
 ## Number Theory
 |  |
 | ------- |
