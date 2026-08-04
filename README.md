@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0047-permutations-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0283-move-zeroes) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
