@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0060-permutation-sequence) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0326-power-of-three) |
