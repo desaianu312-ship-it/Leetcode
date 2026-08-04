@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0049-group-anagrams) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
@@ -351,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
