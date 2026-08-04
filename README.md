@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0401-binary-watch) |
 ## Simulation
