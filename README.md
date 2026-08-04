@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
