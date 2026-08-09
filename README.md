@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0283-move-zeroes) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0179-largest-number) |
