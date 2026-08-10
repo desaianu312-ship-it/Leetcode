@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0179-largest-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0217-contains-duplicate) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0179-largest-number) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0062-unique-paths) |
+| [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -425,4 +429,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0130-surrounded-regions) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
