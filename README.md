@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0326-power-of-three) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0283-move-zeroes) |
