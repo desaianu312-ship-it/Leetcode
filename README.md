@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0290-word-pattern) |
+| [0355-design-twitter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0389-find-the-difference) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0355-design-twitter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
