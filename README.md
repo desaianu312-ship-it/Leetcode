@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0383-ransom-note) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
