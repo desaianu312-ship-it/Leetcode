@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0355-design-twitter) |
 ## Queue
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Binary Search Tree
 |  |
@@ -487,4 +490,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0337-house-robber-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
