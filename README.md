@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0401-binary-watch) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0062-unique-paths) |
+| [0095-unique-binary-search-trees-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0139-word-break](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0322-coin-change) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
