@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0504-base-7) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Backtracking
