@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
 | ------- |
