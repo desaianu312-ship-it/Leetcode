@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0661-image-smoother) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0661-image-smoother) |
 ## Monotonic Stack
 |  |
 | ------- |
