@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0682-baseball-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
