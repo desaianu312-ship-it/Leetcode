@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0509-fibonacci-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0598-range-addition-ii) |
 ## Binary Search
 |  |
@@ -634,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
