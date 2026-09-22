@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0661-image-smoother) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
