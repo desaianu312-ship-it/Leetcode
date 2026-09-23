@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0441-arranging-coins) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
