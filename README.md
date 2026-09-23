@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -670,4 +674,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
