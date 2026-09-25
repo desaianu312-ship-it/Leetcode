@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0500-keyboard-row) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -686,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
