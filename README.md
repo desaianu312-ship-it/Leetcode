@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0500-keyboard-row) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0482-license-key-formatting) |
