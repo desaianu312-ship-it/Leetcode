@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0409-longest-palindrome) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0500-keyboard-row) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0504-base-7) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0482-license-key-formatting) |
