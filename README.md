@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0413-arithmetic-slices](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0414-third-maximum-number) |
+| [0427-construct-quad-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0463-island-perimeter) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0427-construct-quad-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0427-construct-quad-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0200-number-of-islands) |
+| [0427-construct-quad-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0661-image-smoother) |
 ## Monotonic Stack
