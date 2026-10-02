@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0682-baseball-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
