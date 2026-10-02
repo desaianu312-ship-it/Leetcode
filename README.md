@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0598-range-addition-ii) |
+| [0836-rectangle-overlap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Binary Search
 |  |
 | ------- |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Data Stream
 |  |
 | ------- |
