@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3483-unique-3-digit-even-numbers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3483-unique-3-digit-even-numbers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -737,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
