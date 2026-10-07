@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0494-target-sum) |
