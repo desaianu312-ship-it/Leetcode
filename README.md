@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3886-sum-of-sortable-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0661-image-smoother) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
