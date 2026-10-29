@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0427-construct-quad-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0427-construct-quad-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -738,11 +744,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sqrt Decomposition
 |  |
 | ------- |
