@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1882-process-tasks-using-servers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1882-process-tasks-using-servers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
