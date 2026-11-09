@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0706-design-hashmap) |
 | [1254-number-of-closed-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/desaianu312-ship-it/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Tree
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0661-image-smoother) |
 | [1254-number-of-closed-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
@@ -706,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/desaianu312-ship-it/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
