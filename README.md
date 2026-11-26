@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0836-rectangle-overlap) |
+| [3360-stone-removal-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0682-baseball-game) |
+| [3360-stone-removal-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
