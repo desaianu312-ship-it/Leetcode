@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/desaianu312-ship-it/Leetcode/tree/master/0836-rectangle-overlap) |
 | [3360-stone-removal-game](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3360-stone-removal-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3886-sum-of-sortable-integers](https://github.com/desaianu312-ship-it/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
